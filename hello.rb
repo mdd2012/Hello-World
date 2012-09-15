@@ -6,3 +6,5 @@
   puts "Hello World!"
   puts "Hello World!!!!!!!!!!!!"
  puts "Hello ワールド!!"
+ puts "Hello ワールド!!"
+ puts "Hello ワールド!!"
