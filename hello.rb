@@ -8,3 +8,5 @@
  puts "Hello ワールド!!"
  puts "Hello ワールド!!"
  puts "Hello ワールド!!"
+ puts "Hello ワールド!!"
+ puts "Hello ubuntu ワールド!!"
